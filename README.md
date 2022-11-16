@@ -1,4 +1,4 @@
 - Hi, I’m Emirhan
-- I'm From TÜRKİYE 🇹🇷
+- I'm From TÜRKİYE 
 - My Discord Profile 0xEmir#0019
 - [Click](https://discord.gg/WSS9XwmSyP) to join Discord server
