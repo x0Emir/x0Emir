@@ -10,7 +10,6 @@
 <p align="center">
 <a href="https://discord.com/users/631069896847130624" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/0xEmir" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.reddit.com/user/rootflundar" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://open.spotify.com/user/mnqb00ifwsxvtbxav5ux1v6fk" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/0xemir/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.com/invite/WSS9XwmSyP" target"blank_"><img src="https://img.shields.io/discord/1034808872453546004?style=for-the-badge&color=7289da&label=Lavinia&logo=discord&logoColor=white"></a>
